@@ -11,19 +11,19 @@
     <form class="form"  action="thanks.php"  method="post">
         <div class="form-div">
             <label  for="name">Name :</label>
-            <input  type="text"  id="name"  name="user_name" required="required">
+            <input  type="text"  id="name"  name="user_name" required>
         </div class="form-div">
         <div class="form-div">
             <label  for="firstname">Firstame :</label>
-            <input  type="text"  id="firstname"  name="user_firstname" required="required">
+            <input  type="text"  id="firstname"  name="user_firstname" required>
         </div class="form-div">
         <div class="form-div">
             <label  for="e-mail"><e-mail></e-mail>e-mail :</label>
-            <input  type="email"  id="courriel"  name="user_email" required="required">
+            <input  type="email"  id="courriel"  name="user_email" required=>
         </div class="form-div">
         <div class="form-div">
             <label for="phone">Phone number :</label>
-            <input type="tel" id="phone" name="user_phone" required="required">
+            <input type="tel" id="phone" name="user_phone" required>
         </div class="form-div">
          <div class="form-div">
              <label for="topic">Your Topic:</label>
